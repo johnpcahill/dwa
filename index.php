@@ -2,10 +2,6 @@
 <head><title>Hi</title>
 </head>
 <body>
-<?php
-
-echo "<p>DWA folder</p>";
-
-?>
+<p>The index for the DWA folder</p>
 </body>
 </html>

@@ -2,10 +2,6 @@
 <head><title>Hi</title>
 </head>
 <body>
-<?php
-
-echo "<p>###P1 folder</p>";
-
-?>
+<p>The index for the p1 folder</p>
 </body>
 </html>
