@@ -84,5 +84,5 @@ margin-top:8em;
 /*style the image*/
 .logo-image {
 float:right;
-margin-right:4em;
+margin: 0 4em 0 2em;
 }
