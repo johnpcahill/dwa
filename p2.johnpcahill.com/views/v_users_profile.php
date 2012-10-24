@@ -1,2 +1,3 @@
 <h1>Profile</h1>
-<h2><?=$user_name?></h2>
+<p>Name: <?=$user->first_name?> <?=$user->last_name?></p>
+<p>Email: <a href="<?=$user->email?>"><?=$user->email?></a></p>

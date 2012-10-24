@@ -33,8 +33,8 @@
 	if(!defined('ENABLE_GEOLOCATION')) define('ENABLE_GEOLOCATION', TRUE);
 	
 # Default encrypting salts	
-	if(!defined('PASSWORD_SALT')) define('PASSWORD_SALT', 'commodore64'); 
-	if(!defined('TOKEN_SALT')) define('TOKEN_SALT', 'fluxcapacitor'); 
+	if(!defined('PASSWORD_SALT')) define('PASSWORD_SALT', 'jumpnjacks'); 
+	if(!defined('TOKEN_SALT')) define('TOKEN_SALT', 'buffyslayer'); 
 
 # Default Image / Avatar settings
 	if(!defined('AVATAR_PATH')) define('AVATAR_PATH', "/uploads/avatars/");
